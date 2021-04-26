@@ -7,7 +7,7 @@ This project is about recreating the C library function printf, This version wil
 
 > #####  printf :
 
-Printf() function is used to print characters, strings, floats, integers, octals,and hexadecimal values onto the output screen.
+Printf() function is used to print characters, strings, floats, integers, octals and hexadecimal values onto the output screen.
 [more info](https://en.wikipedia.org/wiki/Printf_format_string "more info")
 #  🧬
 > ##### Function prototype
