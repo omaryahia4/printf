@@ -3,7 +3,7 @@
 # 📰
  > #####  DESCRIPTION :
 
-We had to create a printf with all of its characteristics, such as the type of format, length modifiers, and so on.
+This project is about recreating the C library function printf, This version will be used as _printf.
 
 > #####  printf :
 
