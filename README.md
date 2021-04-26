@@ -52,7 +52,7 @@ Printf() function is used to print characters, strings, floats, integers, octals
 > #####  **Concept of the project** :
 
 1. How to work in team
-2. How to apply the vardic function
+2. How to apply the variadic function
 3. How printf works
 4. how to use git in team setting
 
@@ -64,12 +64,12 @@ Printf() function is used to print characters, strings, floats, integers, octals
 
 | File | Description |
 | --- | --- |
-| _putchar.c | a file that contain putchar config |
-| _holberton.h |  contain all prototypes |
-| get-function.c | a file contain printf functions |
-| print_number.c | a file that contain integer and decimal numbers |
-| print_string.c | a file that contain string/number/percent functions |
-| printf.c | a file that contain printf format |
+| _putchar.c | A file that contains putchar's config |
+| _holberton.h |  C library that contains all prototypes used in coding |
+| get-function.c | A file containing the variadic functions |
+| print_number.c | A file containing functions that prints integer and decimal |
+| print_string.c | A file containing functions that prints strings/ numbers/ percents|
+| printf.c | Contains main printf function |
 
 #  📦
 > ##### Instructions to clone our repository :
