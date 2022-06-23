@@ -1,6 +1,4 @@
-![header](https://fv2-2.failiem.lv/thumb_show.php?i=mpc88ztpf&view "header")
-
-# 📰
+# <center><img src='./images.png'></center>
  > #####  DESCRIPTION :
 
 This project is about recreating the C library function printf, This version will be used as _printf.
